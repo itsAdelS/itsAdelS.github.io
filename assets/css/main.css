@@ -3234,9 +3234,9 @@ input, select, textarea {
 			background-color: #212931;
 			background-image: url("../../images/forestbg.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/forestbg.png");
 			background-size: auto;
-			background-position:center,	top center;
-			/*background-repeat: 								no-repeat,													no-repeat;*/
-			background-attachment: scroll,								scroll,														scroll;
+			background-position:center;
+			/*background-repeat: 								no-repeat,													no-repeat;
+			background-attachment: scroll,								scroll,														scroll;*/
 			z-index: -1;
 		}
 
