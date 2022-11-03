@@ -3227,10 +3227,10 @@ input, select, textarea {
 
 		#wrapper > .bg {
 			position: absolute;
-			top: 0;
+			/*top: 0;
 			left: 0;
 			width: 100%;
-			height: 100%;
+			height: 100%;*/
 			background-color: #212931;
 			background-image: url("../../images/forestbg.png");
 			background-position:center;
@@ -3274,7 +3274,7 @@ input, select, textarea {
 		@media screen and (orientation: portrait) {
 
 			#wrapper > .bg {
-				background-size: auto,								auto,														auto 175%;
+				background-size: auto 175%;
 			}
 
 		}
